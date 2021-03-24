@@ -1,10 +1,3 @@
----
-title: "manhattan_plots"
-output:
-  html_document:
-    keep_md: true
----
-
 
 ### The aim of this notebook is to demonstrate a way to create custom Manhattan plots for BLUPf90 (https://masuday.github.io/blupf90_tutorial/) output
 
