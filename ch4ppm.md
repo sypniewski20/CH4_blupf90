@@ -1,10 +1,3 @@
----
-title: "CH4ppm_genomic_study"
-output:
-  html_document:
-    keep_md: true
----
-
 
 
 ### The aim of this notebook is to present way of processing of BLUPf90 software output (https://masuday.github.io/blupf90_tutorial/) i.e. heritability and variance components estimation for CH4 emission in dairy cattle expressed in CH4 particles per million / day (CH4 ppm/d)
